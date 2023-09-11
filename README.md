@@ -13,7 +13,7 @@ En este juego, podrás disfrutar del emocionante desafío de alinear tres de tus
 ## Cómo Jugar 🎮
 
 1. Ejecuta la aplicación en tu entorno de desarrollo preferido, como Visual Studio.
-2. Selecciona una celda para colocar tu ficha. Las celdas se identifican mediante coordenadas como "A1" o "B2".
+2. Selecciona una celda para colocar tu ficha. Las celdas se identifican mediante numeros.
 3. El juego alternará automáticamente entre los jugadores.
 4. El juego anunciará al ganador o el empate cuando corresponda.
 
