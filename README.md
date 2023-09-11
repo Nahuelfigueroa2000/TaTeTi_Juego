@@ -15,9 +15,11 @@
 4-El juego anunciará al ganador o el empate cuando corresponda.
 
 #Requisitos
+
 *Visual Studio o un entorno de desarrollo compatible con C#.
 
 #Ejecución del juego
+
 1-Clona este repositorio en tu máquina local.
 2-Abra el proyecto en Visual Studio o su entorno de desarrollo C# preferido.
 3-Compila y ejecuta el proyecto.
