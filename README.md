@@ -8,6 +8,7 @@
 * La interfaz de consola proporciona instrucciones claras para los jugadores.
 
 #Cómo jugar
+
 1-Ejecute la aplicación.
 2-Selecciona una celda para colocar tu ficha. Las celdas se identifican mediante coordenadas como "A1" o "B2".
 3-El juego alternará automáticamente entre los jugadores.
